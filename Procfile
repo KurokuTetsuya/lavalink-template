@@ -1,1 +1,1 @@
-web: java -jar Lavalink.jar
+web: python3 start.py
