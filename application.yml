@@ -1,9 +1,9 @@
 server: # REST and WS server
-  port: DYNAMICPORT
+  port: 80
   address: 0.0.0.0
 lavalink:
   server:
-    password: "DYNAMICPASSWORD"
+    password: "beepboop"
     sources:
       youtube: true
       bandcamp: true
